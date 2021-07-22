@@ -27,7 +27,7 @@ HELP_TEXT = """
 <i>Cᴏɴᴛᴀᴄᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ (ᴏʀ) ʀᴇᴘᴏʀᴛ ʙᴜɢꜱ</i> <b>: <a href='https://t.me/Avishkarpatil'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></b>"""
 
 ABOUT_TEXT = """
-<b>⚜ Mʏ ɴᴀᴍᴇ : erolinksbot3</b>\n
+<b>⚜ Mʏ ɴᴀᴍᴇ : @erolinks2bot</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://eroticmovies.online'>3.0.1</a></b>\n
 <b>🔹Sᴏᴜʀᴄᴇ : <a href='https://eroticmovies.online'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>\n
 <b>🔸GitHub : <a href='https://eroticmovies.online'>Fᴏʟʟᴏᴡ</a></b>\n
